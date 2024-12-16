@@ -29,46 +29,96 @@ Publish the website in the given URL.
 Figma
 
 # CODE:
-## first page
+## frame 1
 ```
-<div style="width: 444px; height: 929px; position: relative; background: #0ECFFA">
-  <img style="width: 444px; height: 779px; left: 0px; top: 148px; position: absolute" src="https://via.placeholder.com/444x779" />
-  <div style="width: 393px; height: 95px; left: 34px; top: 24px; position: absolute; color: #8929A1; font-size: 32px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">SAVEETHA ENIGINEERING<br/>         COLLEGE.</div>
-  <div style="width: 214px; height: 174px; left: 213px; top: 538px; position: absolute; background: #FBBC05; border-radius: 9999px"></div>
-  <div style="width: 177px; height: 67px; left: 230px; top: 590px; position: absolute; color: black; font-size: 20px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">DRAWING<br/>       COMPETITION. </div>
+<div style="width: 220px; height: 410px; position: relative; background: white">
+  <img style="width: 220px; height: 410px; left: 0px; top: 0px; position: absolute; opacity: 0.90; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 10px" src="https://via.placeholder.com/220x410" />
+  <div style="width: 59px; height: 55px; padding-top: 13.75px; padding-bottom: 6.01px; padding-left: 8.71px; padding-right: 8.71px; left: 81px; top: 108px; position: absolute; background: #D4D4D4; border-radius: 100px; overflow: hidden; justify-content: center; align-items: center; display: inline-flex">
+    <div style="width: 41.57px; height: 35.24px; background: black"></div>
+  </div>
+  <div style="left: 23px; top: 72px; position: absolute; color: #DB161D; font-size: 20px; font-family: Jacques Francois Shadow; font-weight: 400; word-wrap: break-word">Sports Day Events</div>
+  <div style="width: 100px; height: 30px; left: 60px; top: 183px; position: absolute; background: #F9F9F9; border-radius: 8px; overflow: hidden; border: 1px #C6C6C6 solid; justify-content: center; align-items: center; display: inline-flex">
+    <div style="padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; background: rgba(71, 71, 71, 0.08); justify-content: center; align-items: center; gap: 8px; display: flex">
+      <div style="text-align: center; color: #474747; font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">Username</div>
+    </div>
+  </div>
+  <div style="width: 100px; height: 30px; left: 60px; top: 233px; position: absolute; background: #F9F9F9; border-radius: 8px; overflow: hidden; border: 1px #C6C6C6 solid; justify-content: center; align-items: center; display: inline-flex">
+    <div style="padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; background: rgba(71, 71, 71, 0.08); justify-content: center; align-items: center; gap: 8px; display: flex">
+      <div style="text-align: center; color: #474747; font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">Password</div>
+    </div>
+  </div>
+  <div style="width: 60px; height: 30px; left: 81px; top: 283px; position: absolute; background: #4A4458; border-radius: 100px; overflow: hidden; flex-direction: column; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div style="align-self: stretch; flex: 1 1 0; padding-left: 24px; padding-right: 24px; padding-top: 10px; padding-bottom: 10px; background: rgba(232, 222, 248, 0.12); justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+      <div style="text-align: center; color: #E8DEF8; font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">Login</div>
+    </div>
+  </div>
+  <img style="width: 200px; height: 30.08px; left: 10px; top: 18px; position: absolute" src="https://via.placeholder.com/200x30" />
 </div>
 ```
-## second page
+## frame 2
 ```
-<div style="width: 430px; height: 932px; position: relative; background: #15DDEA">
-  <div style="left: 34px; top: 157px; position: absolute; color: black; font-size: 24px; font-family: Imprima; font-weight: 400; word-wrap: break-word">name:</div>
-  <div style="width: 184px; height: 28px; left: 184px; top: 157px; position: absolute; background: #D9D9D9"></div>
-  <div style="width: 347px; height: 112px; left: 34px; top: 28px; position: absolute; color: #F90BC4; font-size: 36px; font-family: Imprima; font-weight: 400; word-wrap: break-word">EVENT REGISTERATION<br/>            FORM</div>
-  <div style="left: 33px; top: 229px; position: absolute; color: black; font-size: 24px; font-family: Imprima; font-weight: 400; word-wrap: break-word">age:</div>
-  <div style="left: 35px; top: 314px; position: absolute; color: black; font-size: 24px; font-family: Imprima; font-weight: 400; word-wrap: break-word">gender:</div>
-  <div style="left: 38px; top: 394px; position: absolute; color: black; font-size: 24px; font-family: Imprima; font-weight: 400; word-wrap: break-word">department:</div>
-  <div style="left: 43px; top: 472px; position: absolute; color: black; font-size: 24px; font-family: Imprima; font-weight: 400; word-wrap: break-word">year:</div>
-  <div style="left: 47px; top: 536px; position: absolute; color: black; font-size: 24px; font-family: Imprima; font-weight: 400; word-wrap: break-word">email:</div>
-  <div style="width: 181px; height: 28px; left: 184px; top: 229px; position: absolute; background: #D9D9D9"></div>
-  <div style="width: 184px; height: 28px; left: 184px; top: 314px; position: absolute; background: #D9D9D9"></div>
-  <div style="width: 176px; height: 25px; left: 192px; top: 397px; position: absolute; background: #D9D9D9"></div>
-  <div style="width: 179px; height: 28px; left: 189px; top: 472px; position: absolute; background: #D9D9D9"></div>
-  <div style="width: 173px; height: 21px; left: 192px; top: 537px; position: absolute; background: #D9D9D9"></div>
-  <div style="width: 430px; height: 149px; left: 0px; top: 783px; position: absolute; background: #F80FFD"></div>
-  <div style="width: 317px; left: 69px; top: 821px; position: absolute; color: black; font-size: 40px; font-family: Imprima; font-weight: 400; word-wrap: break-word">REGISTER NOW!!!</div>
+<div style="width: 220px; height: 414px; position: relative; background: white">
+  <div style="width: 220px; height: 411px; left: 0px; top: 3px; position: absolute; background: white">
+    <img style="width: 220px; height: 410px; left: 0px; top: 1px; position: absolute; border-radius: 10px" src="https://via.placeholder.com/220x410" />
+    <div style="left: 72px; top: 114px; position: absolute; color: #2C09F6; font-size: 16px; font-family: Inter; font-weight: 600; line-height: 22.40px; word-wrap: break-word">Tennis</div>
+    <div style="width: 202px; height: 50px; left: 9px; top: 24px; position: absolute; text-align: center; color: #80058C; font-size: 24px; font-family: Roboto; font-weight: 400; line-height: 32px; word-wrap: break-word">Sports Day <br/>Registration</div>
+    <div style="left: 72px; top: 159px; position: absolute; color: #0445E9; font-size: 16px; font-family: Inter; font-weight: 600; line-height: 22.40px; word-wrap: break-word">Foot Ball</div>
+    <div style="left: 72px; top: 212px; position: absolute; color: #0942D4; font-size: 16px; font-family: Inter; font-weight: 600; line-height: 22.40px; word-wrap: break-word">Volley Ball</div>
+    <div style="left: 72px; top: 257px; position: absolute; color: #0445E9; font-size: 16px; font-family: Inter; font-weight: 600; line-height: 22.40px; word-wrap: break-word">Cricket</div>
+  </div>
 </div>
 ```
-## third page
+## frame 3
 ```
-<div style="width: 430px; height: 932px; position: relative; background: #06A3FB">
-  <img style="width: 660px; height: 932px; left: -230px; top: 0px; position: absolute" src="https://via.placeholder.com/660x932" />
-  <div style="width: 416px; height: 174px; left: 43px; top: 307px; position: absolute; color: black; font-size: 64px; font-family: Kavoon; font-weight: 400; word-wrap: break-word">THANK YOU</div>
-  <div style="left: 73px; top: 394px; position: absolute; color: black; font-size: 64px; font-family: Kavoon; font-weight: 400; word-wrap: break-word">     FOR</div>
-  <div style="width: 473px; left: 43px; top: 481px; position: absolute; color: black; font-size: 48px; font-family: Kavoon; font-weight: 400; word-wrap: break-word">REGISTRATION.</div>
+<div style="width: 220px; height: 410px; position: relative; background: white">
+  <img style="width: 220px; height: 410px; left: 0px; top: 0px; position: absolute; border-radius: 10px" src="https://via.placeholder.com/220x410" />
+  <div style="left: 45px; top: 40px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Inter; font-weight: 600; line-height: 28.80px; word-wrap: break-word">Information</div>
+  <div style="width: 100px; height: 20px; left: 60px; top: 98px; position: absolute; background: #FDF7FF; border-radius: 8px; overflow: hidden; border: 1px #7D7983 solid; justify-content: center; align-items: center; display: inline-flex">
+    <div style="padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; background: rgba(69, 65, 74, 0.08); justify-content: center; align-items: center; gap: 8px; display: flex">
+      <div style="text-align: center; color: #45414A; font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">Name</div>
+    </div>
+  </div>
+  <div style="width: 100px; height: 20px; left: 60px; top: 138px; position: absolute; background: #FEF7FF; border-radius: 8px; overflow: hidden; border: 1px #CAC4D0 solid; justify-content: center; align-items: center; display: inline-flex">
+    <div style="padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; background: rgba(73, 69, 79, 0.08); justify-content: center; align-items: center; gap: 8px; display: flex">
+      <div style="text-align: center; color: #49454F; font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">Dept</div>
+    </div>
+  </div>
+  <div style="width: 100px; height: 20px; left: 60px; top: 176px; position: absolute; background: #FEF7FF; border-radius: 8px; overflow: hidden; border: 1px #CAC4D0 solid; justify-content: center; align-items: center; display: inline-flex">
+    <div style="padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; background: rgba(73, 69, 79, 0.08); justify-content: center; align-items: center; gap: 8px; display: flex">
+      <div style="text-align: center; color: #49454F; font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">Year of Study</div>
+    </div>
+  </div>
+  <div style="left: 19px; top: 218px; position: absolute; text-align: center; color: black; font-size: 14px; font-family: Roboto; font-weight: 600; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">If Team:</div>
+  <div style="width: 100px; height: 20px; left: 60px; top: 244px; position: absolute; background: #FEF7FF; border-radius: 8px; overflow: hidden; border: 1px #CAC4D0 solid; justify-content: center; align-items: center; display: inline-flex">
+    <div style="padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; background: rgba(73, 69, 79, 0.08); justify-content: center; align-items: center; gap: 8px; display: flex">
+      <div style="text-align: center; color: #49454F; font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">Team Name</div>
+    </div>
+  </div>
+  <div style="width: 120px; height: 20px; left: 55px; top: 277px; position: absolute; background: #FEF7FF; border-radius: 8px; overflow: hidden; border: 1px #CAC4D0 solid; justify-content: center; align-items: center; display: inline-flex">
+    <div style="padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; background: rgba(73, 69, 79, 0.08); justify-content: center; align-items: center; gap: 8px; display: flex">
+      <div style="text-align: center; color: #49454F; font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">No. of Teammates</div>
+    </div>
+  </div>
+  <div style="width: 100px; height: 30px; left: 60px; top: 336px; position: absolute; background: #FFA79B; border-radius: 100px; overflow: hidden; flex-direction: column; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div style="align-self: stretch; flex: 1 1 0; padding-left: 24px; padding-right: 24px; padding-top: 10px; padding-bottom: 10px; background: rgba(86, 30, 24, 0.12); justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+      <div style="text-align: center; color: #561E18; font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">Finalize</div>
+    </div>
+  </div>
+</div>
+
+```
+## frane 4 
+```
+<div style="width: 225px; height: 409px; position: relative; background: white">
+  <div style="width: 175px; height: 20px; left: 20px; top: 186px; position: absolute; text-align: center; color: #83075C; font-size: 11px; font-family: Roboto; font-weight: 500; line-height: 16px; letter-spacing: 0.50px; word-wrap: break-word">Thank you for registering! We’re excited to have you with us!</div>
+  <img style="width: 200px; height: 30.08px; left: 6px; top: 18px; position: absolute" src="https://via.placeholder.com/200x30" />
+  <div style="left: 17px; top: 95px; position: absolute; color: #C91252; font-size: 32px; font-family: Inter; font-style: italic; font-weight: 500; line-height: 32px; word-wrap: break-word">Successfully <br/>Registered !!</div>
 </div>
 ```
 # OUTPUT:
-![Screenshot 2024-12-13 003218](https://github.com/user-attachments/assets/569c1432-fcbb-4e18-ad98-67d6509d01af)
+
+![Screenshot 2024-12-16 104843](https://github.com/user-attachments/assets/cef1a029-a195-4d6a-8f4a-591b3ea4410f)
+
 
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
